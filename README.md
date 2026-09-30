@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard created to analyze coffee sales data and provide insights into sales performance, customer behavior, and product preferences.
 
-![Coffee Sales Dashboard](dashboard.png)
+![Coffee Sales Dashboard](./dashboard.png)
 
 ## 📊 Dashboard Features
 
